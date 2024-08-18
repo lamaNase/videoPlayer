@@ -1,0 +1,4 @@
+/home/lama/Desktop/Training/task3/build/CMakeFiles/video.dir
+/home/lama/Desktop/Training/task3/build/CMakeFiles/edit_cache.dir
+/home/lama/Desktop/Training/task3/build/CMakeFiles/rebuild_cache.dir
+/home/lama/Desktop/Training/task3/build/CMakeFiles/video_autogen.dir
