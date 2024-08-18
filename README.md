@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dynamic Frame Rate Video Player 📹 🎬
 
 This project performs a simple video player with speed control. it displays
@@ -87,3 +88,6 @@ The following video shows a how the output should appear
 =======
 >>>>>>> origin/main
 
+=======
+# videoPlayer
+>>>>>>> origin/main
